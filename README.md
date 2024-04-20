@@ -15,4 +15,3 @@
 >>> Go into the `DLS_RG_TK` folder.  
 >>> Run the latest version (1.0.2)  
 >>> You're done!  
->. I hope that was understandable.
