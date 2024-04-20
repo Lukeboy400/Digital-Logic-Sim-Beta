@@ -12,8 +12,7 @@
 >> as a normal human. So hopefully I can provide
 >> understantable instructions.
 >>> Get the project in whatever way you choose.  
->>> Go into the `DLS_RG_TK` folder.
->>> Run the latest version (1.0.2)
+>>> Go into the `DLS_RG_TK` folder.  
+>>> Run the latest version (1.0.2)  
 >>> You're done!  
-> I hope that was understandable.  
->
+>. I hope that was understandable.
